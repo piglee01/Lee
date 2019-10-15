@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello,Justin Bieber!&Hailey Bieber!\n");
+    printf("Hello!I'm lzt!\n");
     return 0;
 }
